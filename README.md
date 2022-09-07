@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Kevincn932
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @Kevincn932
+
+My actual name is kevin vojtek
+
+Im a rvcc student completing my 2 years in IT and then transfering to NJIT for my bachelor's  
+I like to play video game and I love listening to music. I workout for myself to look fit and feel better.
+I currently work in walmart for part time i started about a few months ago. 
+- 📫 How to reach me: 
 
 
 Kevincn932/Kevincn932 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 
