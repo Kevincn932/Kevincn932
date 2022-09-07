@@ -8,6 +8,5 @@ I currently work at walmart part time i started about a few months ago.
 - 📫 How to reach me: 
 
 
-Kevincn932/Kevincn932 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
